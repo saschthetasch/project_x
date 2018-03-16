@@ -1,2 +1,2 @@
 # project_x
-my project
+Project in golang to scrapping ICO Values
